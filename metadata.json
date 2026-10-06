@@ -1,0 +1,8 @@
+{
+  "name": "Maa Janki X-Ray & Orthopedic Clinic",
+  "description": "Modern and trustworthy healthcare clinic website for Maa Janki X-Ray, Dr. Jitendra Kumar, and Radiographer Mr. Upendra Kumar, featuring online appointment booking, WhatsApp and call integrations, CTEV, physiotherapy, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
